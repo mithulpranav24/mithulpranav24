@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Hi,+I'm+Mithul Pranav" alt="Typing SVG" />
+  <img src="assets/banner.png" alt="Mithul Pranav ASCII Art" width="600" />
 </div>
 
+<br />
 
 
 ```bash
